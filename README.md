@@ -1,4 +1,4 @@
-# Sternotomy Research
+# Sternal Reconstruction
 
 Code used to extract, analyze, verify, and visualize data for a meta-analysis of sternotomy and chest-wall reconstruction studies.
 
